@@ -1,1 +1,1 @@
-{"@type":"org:Organization","name":"data.cdc.gov","interra":{"id":"datacdcgov","source":"datacdcgov"},"identifier":"c66faf64-1c0b-4f1e-82b8-a18332a61981","created":"2017-11-27","modified":"2017-11-27"}
+{"@type":"org:Organization","name":"data.cdc.gov","image":"http://healthdata-example.interra.io/media/cdc-logo.jpg","interra":{"id":"datacdcgov","source":"datacdcgov"},"identifier":"5311e57e-0c6a-4795-a83f-4fa2da2c4f77","created":"2017-12-22","modified":"2017-12-22"}
